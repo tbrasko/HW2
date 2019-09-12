@@ -1,9 +1,41 @@
+body{
+	background-color: black;
+}
+a{
+	color: pink;
+}
+h3{
+	color: #D5D411;
+	width: 60%;
+	padding:20px;
+	margin:0 auto;
+	text-align: left;
+}
+h1{
+	border:5px;
+	border-style:solid;
+	border-color:white;
+	width: 710px;
+	padding: 20px;
+	margin: 5px;
+	font-weight: bold ;
+	font-size:60px;
+	color: white;
+}
+h2{
+	font-size: 20px;
+	color:white;
+}
 
 
-body {
+.content{
 	background-color:lightgray;
 	width: 60%;
 	margin: 0 auto;
 	text-align:left;
 	padding:20px;
+}
+
+ul{
+	list-style-type: circle;
 }
